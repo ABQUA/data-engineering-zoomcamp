@@ -29,7 +29,7 @@ Apply the plan and copy the output (after running `apply`) to the form.
 
 It should be the entire output - from the moment you typed `terraform init` to the very end.
 
-## Prepare Postgres 
+## Prepare  
 
 Run Postgres and load data as shown in the videos
 
